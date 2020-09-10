@@ -1,6 +1,6 @@
 # Legends-Fixed-Assets
 
-This repo is a placeholder for the time being, but intended to eventually host all the uncompressed assets of the Legends Fixed project (sounds, textures, models etc.)
+This repo is a placeholder for the time being, but is intended to eventually host all the uncompressed assets of the Legends Fixed project (sounds, textures, models etc.)
 
 **Legends Fixed** is a project/extensive game mod with the intention to iron out issues with the PSP game Burnout Legends, as well as improve the experience with new content and high-quality audiovisual assets.
 
