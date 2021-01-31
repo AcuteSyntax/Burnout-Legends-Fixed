@@ -10,7 +10,10 @@ A rough outline for this project can be found at [docs.google.com](https://docs.
 
 **For PPSSPP users**
 * 1) Extract or dump the files of your Legends copy to a folder.
-* 2) Copy **all** the contents of this repo's /Build folder to the /PSP_GAME folder of your extracted Legends copy.
+* 2) Copy **all** the contents of this repo's `/Build` folder to the `/PSP_GAME` folder of your extracted Legends copy.
 * 3) Launch PPSSPP and use the "File/Open directory.." option
 * 4) Select the root folder of the extracted Legends copy
 * 5) Play!
+
+## Contribution Guide
+* Upload all **uncompressed assets** (PNG images, MP3 or WAV sounds, etc.) you'd like to contribute to the appropriate subfolder of the `**SourceAssets**` folder (for example, images for HUD and UI textures should be uploaded to `SourceAssets/FrontendTextures`).
