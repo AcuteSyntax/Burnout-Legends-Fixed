@@ -16,4 +16,4 @@ A rough outline for this project can be found at [docs.google.com](https://docs.
 * 5) Play!
 
 ## Contribution Guide
-* Upload all **uncompressed assets** (PNG images, MP3 or WAV sounds, etc.) you'd like to contribute to the appropriate subfolder of the `**SourceAssets**` folder (for example, images for HUD and UI textures should be uploaded to `SourceAssets/FrontendTextures`).
+* Upload all **uncompressed assets** (PNG images, MP3 or WAV sounds, etc.) you'd like to contribute to the appropriate subfolder of the `SourceAssets` folder (for example, images for HUD and UI textures should be uploaded to `SourceAssets/FrontendTextures`).
